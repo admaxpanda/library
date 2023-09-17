@@ -50,12 +50,9 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  menKillTheirGod:
     output: true
-    permalink: /:collection/:path/
-  books:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 page_width: 800px
 

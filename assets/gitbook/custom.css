@@ -158,10 +158,13 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: Georgia, serif;
+    font-family: 等线,Arial;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Times New Roman', 宋体;
+}
+.book.font-family-2 {
+    font-family: "Microsoft YaHei";
 }
 
 /* Render wide tables */

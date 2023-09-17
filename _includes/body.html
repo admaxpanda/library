@@ -17,9 +17,9 @@
                     {% else %}
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
                     {% endif %}
-
+                    <p style="text-indent:2em"></p>
                     {{ content }}
-
+                    </p>
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
                         {%- include disqus.html -%}
                     {%- endif -%}

@@ -10,9 +10,9 @@
         },
         "pluginsConfig": {
             "fontsettings": {
-                "family": "sans",
+                "family": "arial",
                 "size": 2,
-                "theme": "white"
+                "theme": "sepia"
             },
             "highlight": {},
             "livereload": {},

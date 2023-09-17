@@ -10,18 +10,19 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     // Default themes
     var THEMES = [
         {
-            config: 'white',
-            text: 'White',
-            id: 0
-        },
-        {
             config: 'sepia',
-            text: 'Sepia',
+            text: '褐色',
             id: 1
         },
         {
+            config: 'white',
+            text: '白色',
+            id: 0
+        },
+
+        {
             config: 'night',
-            text: 'Night',
+            text: '黑色',
             id: 2
         }
     ];
@@ -29,14 +30,19 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     // Default font families
     var FAMILIES = [
         {
-            config: 'serif',
-            text: 'Serif',
+            config: 'arial',
+            text: '等线',
             id: 0
         },
         {
-            config: 'sans',
-            text: 'Sans',
+            config: 'Songti',
+            text: '宋体',
             id: 1
+        },
+        {
+            config: 'Yahei',
+            text: '雅黑',
+            id: 2
         }
     ];
 
