@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Max盼盼的图书馆
+longtitle:        Max盼盼的图书馆
+author:           Max盼盼
+email:            admaxpanda@outlook.com
 description: >
-  Build Jekyll site with the GitBook style.
+  一个记录文字的图书馆
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://admaxpanda.github.io/library'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
